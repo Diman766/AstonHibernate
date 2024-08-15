@@ -1,0 +1,17 @@
+
+{
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "orders".(”óš8Ÿüß¶”2
+b
+java:S2095*"EUse try-with-resources or close this "Session" in a "finally" clause.(”óš8òÖ¼Œ•2
+a
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(ˆàÅk8óÖ¼Œ•2
+N
+java:S1874",Remove this use of "save"; it is deprecated.(æâ°“ÿÿÿÿÿ8 ²Õ¶”2
+P
+java:S1874".Remove this use of "update"; it is deprecated.(¸•ÁÚøÿÿÿÿ8µÔ×¶”2
+K
+java:S1874#".Remove this use of "delete"; it is deprecated.( Ø‘Ş8·Ô×¶”2
+D
+java:S1905*"'Remove this unnecessary cast to "List".(”óš8Š×¼Œ•2
+P
+java:S1874*"3Remove this use of "createQuery"; it is deprecated.(”óš8‹×¼Œ•2
