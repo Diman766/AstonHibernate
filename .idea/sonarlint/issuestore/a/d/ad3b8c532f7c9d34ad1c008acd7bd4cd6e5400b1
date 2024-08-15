@@ -1,0 +1,17 @@
+
+}
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "products".(çĞÚ®8ÒÇ‡•2
+b
+java:S2095,"EUse try-with-resources or close this "Session" in a "finally" clause.(çĞÚ®8èÏºŒ•2
+a
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(×ƒ38èÏºŒ•2
+I
+java:S1874",Remove this use of "save"; it is deprecated.(É‹å±8Æ»Â‡•2
+P
+java:S1874".Remove this use of "update"; it is deprecated.(ş…Ûşÿÿÿÿ8Ì»Â‡•2
+P
+java:S1874%".Remove this use of "delete"; it is deprecated.(¸×ùØúÿÿÿÿ8Î»Â‡•2
+D
+java:S1905,"'Remove this unnecessary cast to "List".(çĞÚ®8ûÏºŒ•2
+P
+java:S1874,"3Remove this use of "createQuery"; it is deprecated.(çĞÚ®8üÏºŒ•2

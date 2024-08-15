@@ -1,0 +1,17 @@
+
+z
+java:S1488*"]Immediately return this expression instead of assigning it to the temporary variable "users".(ôâÜÎ8ì™¡Œ•2
+b
+java:S2095*"EUse try-with-resources or close this "Session" in a "finally" clause.(ôâÜÎ8Š¸ëŒ•2
+b
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Œºƒò8Š¸ëŒ•2
+N
+java:S1874",Remove this use of "save"; it is deprecated.(õğµÉüÿÿÿÿ8÷™¡Œ•2
+K
+java:S1874".Remove this use of "update"; it is deprecated.(±¯ğê8û™¡Œ•2
+P
+java:S1874#".Remove this use of "delete"; it is deprecated.(Åşşúÿÿÿÿ8ş™¡Œ•2
+D
+java:S1905*"'Remove this unnecessary cast to "List".(ôâÜÎ8–¸ëŒ•2
+P
+java:S1874*"3Remove this use of "createQuery"; it is deprecated.(ôâÜÎ8—¸ëŒ•2
